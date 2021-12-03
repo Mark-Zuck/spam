@@ -1,3 +1,4 @@
+##### Script ini untuk spam nomor handphone. Cocok buat spam ripper atau bisa juga jahili teman mu atau orang lain 🤣. Gunaka dengan bijak ya bro tidak untuk di salah gunakan 🙏      
 ### INSTALL
 ````
 pkg update && pkg upgrade
